@@ -1,8 +1,4 @@
 
-#monkeyMacro
-======================
-
-
 #Monkey Macro Tool for Android Apps
 
 
